@@ -25,6 +25,8 @@ From a security perspective, this tool illustrates the principle of confidential
 By simulating a real-world scenario, we better understand why file monitoring is critical in cybersecurity. For instance, if a key system file is modified without authorization, it might be the sign of a security breach. Monitoring tools like this can trigger alerts and prompt immediate action.
 
 #OUTPUT
+
+
 ![Image](https://github.com/user-attachments/assets/69e9ac5e-617c-4fbb-a282-99c40fde1b05)
 
 Lastly, working on this project improves our problem-solving skills, Python programming expertise, and project documentation habits. In future extensions, we can add email notifications, logging, continuous monitoring, or even a graphical interface.
