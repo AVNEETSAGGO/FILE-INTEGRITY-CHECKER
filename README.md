@@ -23,3 +23,10 @@ We also gain insights into filesystem traversal and directory scanning using Pyt
 From a security perspective, this tool illustrates the principle of confidentiality, integrity, and availability (CIA). In particular, it focuses on integrity—ensuring that information has not been altered in an unauthorized way. Organizations can integrate such tools in larger Intrusion Detection Systems (IDS) to monitor sensitive configuration files or log files that should remain unchanged.
 
 By simulating a real-world scenario, we better understand why file monitoring is critical in cybersecurity. For instance, if a key system file is modified without authorization, it might be the sign of a security breach. Monitoring tools like this can trigger alerts and prompt immediate action.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/69e9ac5e-617c-4fbb-a282-99c40fde1b05)
+
+Lastly, working on this project improves our problem-solving skills, Python programming expertise, and project documentation habits. In future extensions, we can add email notifications, logging, continuous monitoring, or even a graphical interface.
+
+In conclusion, this file monitoring tool not only demonstrates a practical application of cryptographic concepts but also strengthens our foundation in cybersecurity. It teaches us how to detect anomalies, maintain system integrity, and automate security checks—skills that are essential for any ethical hacker or cybersecurity professional.
